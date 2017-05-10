@@ -1,3 +1,3 @@
 # GXNU_MACOPEN_C
 
-# openwrt-c版本的macopen
+## openwrt-c版本的macopen
